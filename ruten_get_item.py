@@ -11,6 +11,7 @@ b=input() #頁數
 print("請輸入chromedriver路徑: ") #chrome driver路徑
 driver_path = input()
 print("搜尋露天賣家帳號"+ ruten_account )
+b = int(b)
 
 #以下設定預設值
 """
